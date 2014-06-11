@@ -2,7 +2,7 @@ body
 {
 	padding: 0;
 	margin: 0 ;
-	background-image: url('ronds.jpg');
+#	background-image: url('ronds.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover ;
@@ -22,14 +22,21 @@ body
 	padding: 20px;
 	background: #ccc;
 	height:50px;
-	background-image: url('haut.jpg');
+#	background-image: url('haut.jpg');
+	background-color: #F9DEEC;
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
 }
 
-#header h1 { margin: 0; }
-
+#header h1 {
+	margin: 0;
+	text-align: center;
+	text-decoration: overline underline;
+	font-variant: small-caps;
+	color: #F2177D;
+	
+}
 #navigation
 {
 	float: left;
@@ -79,7 +86,7 @@ body
 
 #edito h2
 {
-	color: #000;
+	color: #F376B9;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -126,6 +133,8 @@ p
 h2,h3
 {
 	text-align: center;
+	font-variant: small-caps;
+	color: #F376B9;
 }
 
 #footer
@@ -136,8 +145,18 @@ h2,h3
 	font-weight: bold;
 	padding: 20px;
 	height: 1%;
-	background-image: url('bas.jpg');
+#	background-image: url('bas.jpg');
+	background-color: #F9DEEC;
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+	color: #F2177D;
 }
+
+
+
+a {
+	text-decoration: none;
+	color: #F6D097;
+}
+
