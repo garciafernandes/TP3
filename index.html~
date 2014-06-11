@@ -3,7 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
 	<title>Comparatif</title>
+
+	<title>Revue de presse</title>
+
 	
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 </head>
@@ -11,8 +15,7 @@
 <div id="container">
 	<div id="header">
 		<h1>
-			#Team Cubisme 
-		</h1>
+			#Team Cubisme 	</h1>
 	</div>
 <!--	<div id="navigation">
 		<ul>
@@ -24,48 +27,51 @@
 	</div>
 -->
 	<div id="edito">
-		<h2>
-			Billet d'humeur 
-		</h2>
+		<h2>Billet d'humeur</h2>
 		<p>
 			Notre théme est le Cubisme ! Découvrez avec nous le monde du cube à travers ses artistes. Les articles suivants ont été écrits par Chloé, Rémi, Laurie & Clélia, élèves du groupe MMI1C. Félicia est l'intégrateur web et Chloé s'occupe du CSS. 
 		</p>
 		
 	</div>
 	
+
 	<div class="element">
 		<!--Chloé-->
-		<h2>
-			Article 1
-		</h2>
-		<img src="ecu.jpg" alt="Ecureuil">
+		<h2>Fernand Léger</h2>
+	
+
 		<p>
-			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+		Fernand Léger, né le 4 février 1881, à Argentan (Orne) et mort le 17 août 1955, à Gif-sur-Yvette (Essonne), est un peintre français, aussi créateur de cartons de tapisseries et de vitraux, décorateur, céramiste, sculpteur, dessinateur, illustrateur. Il a été l’un des premiers à exposer publiquement des travaux d’orientation cubiste1, même si on a parfois qualifié son style de « tubiste »2.
+Quelques mois avant sa mort, en 1955, Fernand Léger acquiert le mas St André, situé au pied du village de Biot. Sur ce terrain horticole, Nadia Léger, sa veuve, et Georges Bauquier, son proche collaborateur, décident de créer un musée pour lui rendre hommage et favoriser la connaissance de son œuvre. Le projet de bâtiment est conçu par l’architecte Andreï Svetchine, le parc confié au paysagiste Henri Fisch. L’édifice intègre en façade une immense mosaïque, initialement prévue par Léger pour la décoration du stade de Hanovre, mais jamais réalisée. En 1969, les fondateurs font don à l’État français du bâtiment, du terrain et d’une collection riche de plus de trois cents œuvres. André Malraux, ministre d’État chargé des affaires culturelles, reçoit la donation au cours d’une manifestation officielle qui se termine par un gala organisé au palais des festivals de Cannes. Le musée Léger devient musée national et, selon les clauses de la donation, les fondateurs restent directeurs à vie.
 		</p>
 		<h3>
-			Source : <a href="#">blabla</a>
+			Source : <a href="http://fr.wikipedia.org/wiki/Fernand_L%C3%A9ger">Wikipedia</a>
 		</h3>
 	</div>
+
 
 	<div class="element">
 	<!--Laurie-->
 		<h2>
-			Pablo Picasso 
-		</h2>
-		<p>
-			Pablo Ruiz Picasso, né à Malaga, Espagne, le 25 octobre 1881 et mort le 8 avril 1973 (à 91 ans) à Mougins, France, est un peintre, dessinateur et sculpteur espagnol1 ayant passé l'essentiel de sa vie en France.
+			Article 2 !!
 
-Artiste utilisant tous les supports pour son travail, il est considéré comme le fondateur du cubisme avec Georges Braque et un compagnon d'art du surréalisme. Il est l'un des plus importants artistes du XXe siècle, tant par ses apports techniques et formels que par ses prises de positions politiques. Il a produit près de 50 000 œuvres dont 1 885 tableaux, 1 228 sculptures, 2 880 céramiques, 7 089 dessins, 342 tapisseries, 150 carnets de croquis et 30 000 estampes (gravures, lithographies, etc.)2.
+
+		<p>
+			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 		</p>
-		<h3>Source : <a href="http://fr.wikipedia.org/wiki/Pablo_Picasso">wikipedia</a>
+		<h3>Source : <a href="#">blabla</a>
 		</h3>
 	</div>
 
 	<div class="element">
 	<!--Rémi-->
+<<<<<<< HEAD
 		<h2>
 			Alexander Archipenko
 		</h2>
+=======
+		<h2>Article 3 !!</h2>
+>>>>>>> c6d36682e4a56a09c6aee7e4c13d21ccf8c810f3
 		<p>
 			Fils d'ingénieur, il a lui aussi étudier les mathématiques. L'artiste est d'ailleurs passionné par les relations antre art et science. Il se forme à la peinture et à la sculpture à Kiev et à Moscou de 1902 à 1906. Cette période lui a permis de se passionner pour les icônes byzantines, les fresques et les mosaïques de Kiev. Après un séjour à Moscou, il s'installe à Paris en 1908 où il entre en contact avec les courants d'avant-garde, en particulier le groupe des cubistes. Il est installé à La Ruche, 2, passage de Dantzig, un ancien pavillon des vins de l'Exposition universelle de 1889 aménagé en ateliers d'artistes. Il travaille en solitaire, préférant aller au musée du Louvre pour étudier la sculpture archaïque grecque plutôt que de se rendre aux Beaux-Arts dont il dédaigne l'enseignement académique. Un reproche que l'artiste a déjà adressé à ses professeurs de l'école d'art de Kiev qui ont fini par le renvoyer. Influencé par Rodin jusqu'à ses travaux présentés à Moscou en 1906, il s'affirme dès ses travaux parisiens à 24 ans comme l'un des chefs de file de la sculpture d'avant-garde.
 		</p>
@@ -77,9 +83,23 @@ Artiste utilisant tous les supports pour son travail, il est considéré comme l
 	
 	<div class="element">
 	<!--Clélia-->		
+<<<<<<< HEAD
 		<h2>
 			Jacques Villon
 		</h2>
+=======
+		<h2>Article 4 !!</h2>
+		<p>
+			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+
+
+	<div class="element">
+		<h2>Article 5 !!</h2>
+>>>>>>> c6d36682e4a56a09c6aee7e4c13d21ccf8c810f3
 		<p>
 		Jacques Villon, dont le vrai nom est Gaston Emile Duchamp, naît le 31 juillet 1875 à Damville. C’est le demi-frère de Marcel Duchamp et de Raymond Duchamp-Villon.
 Il prend son pseudonyme en hommage au poète français François Villon. De 1894 à 1906, Jacques Villon travaille comme caricaturiste et illustrateur pour plusieurs magazines à Paris. A cette époque, un grand nombre d’affiches et de feuillets humoristiques voit le jour.
@@ -90,9 +110,12 @@ Jacques Villon meurt le 9 juin 1963 à Puteaux près de Paris.
 		<h3>Source : <a href="http://www.registre-des-arts.com/litterature/jacques-villon-1875/">Registre des arts</a>
 		</h3>
 	</div>
+	
+
 
 	<div id="footer">
 		Copyright © Site name, 2014
+
 	</div>
 </div>
 </body>
