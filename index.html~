@@ -11,7 +11,7 @@
 <div id="container">
 	<div id="header">
 		<h1>
-			Le surréalisme
+			#Team Cubisme 
 		</h1>
 	</div>
 <!--	<div id="navigation">
@@ -25,40 +25,46 @@
 -->
 	<div id="edito">
 		<h2>
-			Edito
+			Billet d'humeur 
 		</h2>
 		<p>
-			Bonjour à vous, vous venez d'entrer dans un monde étrange celui du Surréalisme. Ce monde est différent de celui que vous connaissez car il vous transportera à travers une époque où il y a eut des oeuvres et des artistes qui n'ont pas que révolutionné l'air moderne mais qui ont réelleme nt contibué à une évasion dans une monde différent.
+			Notre théme est le Cubisme ! Découvrez avec nous le monde du cube. 
 		</p>
-		
 		
 	</div>
 	
 	<div class="element">
+		<!--Chloé-->
 		<h2>
-			Guillaume Renet !!
+			Article 1
 		</h2>
 		<img src="ecu.jpg" alt="Ecureuil">
 		<p>
 			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 		</p>
-		<h3>Source : <a href="#">blabla</a>
+		<h3>
+			Source : <a href="#">blabla</a>
 		</h3>
 	</div>
 
 	<div class="element">
+	<!--Laurie-->
 		<h2>
-			Jeremy Lemaire !!
+			Pablo Picasso 
 		</h2>
 		<p>
-			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+			Pablo Ruiz Picasso, né à Malaga, Espagne, le 25 octobre 1881 et mort le 8 avril 1973 (à 91 ans) à Mougins, France, est un peintre, dessinateur et sculpteur espagnol1 ayant passé l'essentiel de sa vie en France.
+
+Artiste utilisant tous les supports pour son travail, il est considéré comme le fondateur du cubisme avec Georges Braque et un compagnon d'art du surréalisme. Il est l'un des plus importants artistes du XXe siècle, tant par ses apports techniques et formels que par ses prises de positions politiques. Il a produit près de 50 000 œuvres dont 1 885 tableaux, 1 228 sculptures, 2 880 céramiques, 7 089 dessins, 342 tapisseries, 150 carnets de croquis et 30 000 estampes (gravures, lithographies, etc.)2.
 		</p>
-		<h3>Source : <a href="#">blabla</a>
+		<h3>Source : <a href="http://fr.wikipedia.org/wiki/Pablo_Picasso">wikipedia</a>
 		</h3>
 	</div>
+
 	<div class="element">
+	<!--Rémi-->
 		<h2>
-			Quentin Tsaimanga !!
+			Article 3 !!
 		</h2>
 		<p>
 			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
@@ -70,8 +76,9 @@
 		
 	
 	<div class="element">
+	<!--Clélia-->		
 		<h2>
-			Simon Florysiak !!
+			Article 4 !!
 		</h2>
 		<p>
 			Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
@@ -80,10 +87,8 @@
 		</h3>
 	</div>
 
-
-
 	<div id="footer">
-		Copyright © Site name, 20XX
+		Copyright © Site name, 2014
 	</div>
 </div>
 </body>
